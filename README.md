@@ -1,10 +1,26 @@
-<!--Sazid Learner-->
-Sazidul Islam  
-ID-19105021    
-
+`plz install apt  sudu `  
+```c++ 
+int main()
+{
+    int a,b;
+    cout<<a+b;
+    return 0;
+}
+```
+### unorder list  
 ---
-# DIZAS_Ultra
-## What's New?  
+- sazid  
+  - [x]tmaim  
+  - sakib
+- hasib  
+### Autometic link  
+---  
+http://www.DizasUltra.org   
 
----
-<p> This is Sazidul Islam . I am a dreamer . Iam servent Of Allah. Hazrart Muhammad (SA.) is my Prophet And Guider.</p>
+### Markdown Link  
+---  
+[DizasOS](http://www.DizasUltra.org)   
+<br>  
+### image  
+---  
+![Sahada](./picture/sazid.webp)  
